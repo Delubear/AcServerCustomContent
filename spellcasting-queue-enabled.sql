@@ -1,0 +1,1 @@
+UPDATE ace_shard.config_properties_boolean SET value=1 WHERE `key`='spellcast_recoil_queue';
